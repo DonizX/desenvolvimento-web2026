@@ -13,6 +13,6 @@ Explicação sobre a diferença entre internet e web.
 - CSS
 - JavaScript
 
-### Tarefa a ser feita
+## Tarefa a ser feita
 - Criação do Brainstorm (Apoio em 3 sites)
 - Utilizar a plataforma Miro pra criação e colagem de dados da pesquisa.
