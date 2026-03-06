@@ -1,4 +1,4 @@
-#Criado por: Pablo Henrique D. D. de Lima
+# Criado por: Pablo Henrique D. D. de Lima
 # 📝 Resumo da Aula 01 - Desenvolvimento Web
 
 ## 👨‍🏫 Introdução da Disciplina
