@@ -1,18 +1,26 @@
-# Aula 01 – Introdução ao Desenvolvimento Web
+#Criado por: Pablo Henrique D. D. de Lima
+# 📝 Resumo da Aula 01 - Desenvolvimento Web
 
-## Objetivo da Aula
-Apresentar os conceitos iniciais sobre desenvolvimento web e as tecnologias utilizadas.
+## 👨‍🏫 Introdução da Disciplina
+Na primeira aula da disciplina de Desenvolvimento Web, o professor iniciou com uma apresentação geral da matéria e da turma. Cada aluno teve a oportunidade de se apresentar, falando seu nome, experiências anteriores, expectativas com o curso e alguns interesses pessoais. Essa dinâmica ajudou a promover uma primeira interação entre os alunos e permitiu conhecer melhor o perfil da turma.
 
-## Principais Conceitos
+## 📚 Conteúdos que serão estudados
+Durante a aula também foi apresentado o planejamento da disciplina e as principais tecnologias que serão abordadas ao longo do semestre.
 
-### Back-end e front-end
-O frontend é a parte de um site com a qual o usuário interage diretamente, responsável pela interface visual, como layout, botões e menus, sendo desenvolvido principalmente com HTML, CSS e JavaScript. Já o backend é a parte que funciona no servidor, responsável por processar dados, aplicar regras do sistema e gerenciar o banco de dados. Enquanto o frontend apresenta as informações ao usuário, o backend realiza o processamento necessário para que o sistema funcione corretamente.
+Entre os principais tópicos apresentados estão:
 
-### Tecnologias fundamentais
-- HTML
-- CSS
-- JavaScript
+- **Fundamentos de Frontend:** utilização de HTML, CSS e JavaScript para construção de páginas e interfaces web.
+- **Controle de Versão:** uso de ferramentas como Git e plataformas como GitHub ou GitLab para gerenciamento de código e colaboração em equipe.
+- **Frameworks Web:** introdução a frameworks modernos utilizados tanto no desenvolvimento frontend quanto backend.
+- **Bancos de Dados:** conceitos iniciais de bancos de dados, incluindo o modelo NoSQL.
 
-## Tarefa a ser feita
-- Criação do Brainstorm (Apoio em 3 sites)
-- Utilizar a plataforma Miro pra criação e colagem de dados da pesquisa.
+## 📊 Forma de Avaliação
+O professor também explicou como será realizada a avaliação da disciplina. A nota final será composta por diferentes atividades ao longo do semestre:
+
+- **AC1 (15%)** – prova teórica com questões de múltipla escolha.
+- **AC2 (30%)** – desenvolvimento e apresentação de um projeto prático em grupo.
+- **Avaliação complementar (10%)** – nota relacionada à participação e desempenho geral.
+- **Avaliação Final (45%)** – entrega da documentação completa do projeto, estruturada de forma semelhante a um mini TCC.
+
+## 💭 Considerações sobre a aula
+A aula serviu principalmente como uma introdução à disciplina e às ferramentas que serão utilizadas durante o semestre. Também foi possível perceber que a matéria terá um foco bastante prático, com atividades em grupo e utilização de ferramentas importantes no mercado de desenvolvimento, como Git e GitHub, que auxiliam no controle de versões e na organização de projetos em equipe.
